@@ -14,29 +14,23 @@ and I'm working in backend</h3>
 
 <h3>Learned technologies: </h3>
 
-<!--
-Kubernetes
-CI/CD
-Prometheus
-Loki
-Grafana
-Ansible
-Terraform
---!>
-
-<a href="https://" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/> </a> 
-<a href="https://" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> </a> 
-<a href="https://" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> </a> 
-<a href="https://" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/> </a> 
-<a href="https://" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a> 
-
-
-<!--
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abykova&show_icons=true&locale=en&layout=compact" alt="abykova" /></p>
---!>
-
+<p>
+<a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/> </a> 
+<a href="https://prometheus.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> </a> 
+<a href="https://www.ansible.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/> </a> 
+<a href="https://www.terraform.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a> 
+</p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abykova&show_icons=true&locale=en" alt="abykova" /></p>
 
 
 <h3>Connect with me:</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/abykova03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="40" height="40"/> </a> 
+</p>
+
+<!--
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abykova&show_icons=true&locale=en&layout=compact" alt="abykova" /></p>
+--!>

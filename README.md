@@ -28,10 +28,11 @@ and I'm working in backend</h3>
 <h3>Connect with me:</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/abykova03/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/abykova03">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
+</a>
 <a href="https://t.me/osenpai">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" target="_blank" />
 </a>
 </p>
 

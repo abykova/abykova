@@ -1,7 +1,6 @@
 <h1>Hi there 👋, I'm Alexandra</h1>
 
-<h3>I know how to exit vim!
-and I'm working in backend</h3>
+<h3>I know how to exit vim!</h3>
 
 <h3>Worked with technologies: </h3>
 

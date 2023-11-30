@@ -23,7 +23,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abykova&show_icons=true&locale=en" alt="abykova" /></p>
 
-
+<!--
 <h3>Connect with me:</h3>
 
 <p>
@@ -35,6 +35,6 @@
 </a>
 </p>
 
-<!--
+
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abykova&show_icons=true&locale=en&layout=compact" alt="abykova" /></p>
 --!>
